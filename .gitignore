@@ -5,3 +5,5 @@ TestResults
 UAssetGUI/bin
 UAssetGUI/obj
 UAssetGUI/git_commit.txt
+.debug-repro/
+Directory.Build.props
